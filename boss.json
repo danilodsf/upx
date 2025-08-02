@@ -1,0 +1,9 @@
+{
+  "name": "upx",
+  "version": "5.0.2",
+  "summary": "UPX executable packer for Delphi builds",
+  "homepage": "https://upx.github.io/",
+  "files": [
+    "bin/upx.exe"
+  ]
+}
